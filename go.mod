@@ -1,1 +1,1 @@
-module github.com/dennwc/gotrace
+module github.com/prolicht-dev/gotrace
